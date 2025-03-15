@@ -146,8 +146,8 @@
     "webpack-merge": "^5.9.0"
   },
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.erb.ElectronReact",
+    "productName": "Soundium",
+    "appId": "Soundium",
     "asar": true,
     "asarUnpack": "**\\*.{node,dll}",
     "files": [
