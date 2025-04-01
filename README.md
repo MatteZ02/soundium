@@ -20,3 +20,7 @@ To package apps for the local platform:
 ```bash
 npm run package
 ```
+
+## Demo
+https://github.com/user-attachments/assets/85f3ff3c-a2d0-4966-9183-ed190e013a9d
+
