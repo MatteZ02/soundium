@@ -20,3 +20,6 @@ To package apps for the local platform:
 ```bash
 npm run package
 ```
+
+## Demo
+![](./files/demo.mp4)
