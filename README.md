@@ -20,6 +20,3 @@ To package apps for the local platform:
 ```bash
 npm run package
 ```
-
-## Demo
-![](https://github.com/MatteZ02/soundium/blob/main/files/demo.mp4)
