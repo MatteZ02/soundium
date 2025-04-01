@@ -22,4 +22,4 @@ npm run package
 ```
 
 ## Demo
-![](./files/demo.mp4)
+![](https://github.com/MatteZ02/soundium/blob/main/files/demo.mp4)
